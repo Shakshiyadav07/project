@@ -727,9 +727,9 @@ function Home({setAlgorithm}) {
                 <div className='flex flex-col text-white space-y-5'>
                   <h1 className='text-2xl md:text-4xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-purple-400 via-pink-500 to-red-500'>Connect</h1>
                   <div className='flex  space-x-5'>
-                   <a href="https://github.com/satyamyadav04"> <Github className='bg-gray-800  w-10 h-10 p-2 rounded-md' /> </a>
-                    <a href="https://www.linkedin.com/in/satyam-yadav-738773290/"> <Linkedin className='bg-gray-800  w-10 h-10 p-2 rounded-md' /> </a>
-                    <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox"> <Mail className='bg-gray-800 cursor-pointer w-10 h-10 p-2 rounded-md' /></a>
+                   <a href="https://github.com/Shakshiyadav07"> <Github className='bg-gray-800  w-10 h-10 p-2 rounded-md' /> </a>
+                    <a href=""> <Linkedin className='bg-gray-800  w-10 h-10 p-2 rounded-md' /> </a>
+                    <a href="https://mail.google.com/mail/u/0/#inbox"> <Mail className='bg-gray-800 cursor-pointer w-10 h-10 p-2 rounded-md' /></a>
                     <Twitter className='bg-gray-800 cursor-pointer w-10 h-10 p-2 rounded-md' />
                   </div>
                   <p className='text-[0.9rem] text-left md:text-[0.9rem] text-gray-300 md:text-left'>
