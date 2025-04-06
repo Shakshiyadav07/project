@@ -64,3 +64,4 @@ Introduce dark mode and custom themes.
 
 ## Code Highlighter
 introduce the algo pueodo code highliter 
+# npm run dev
